@@ -1,4 +1,4 @@
-#FR
+  #FR
   # Ukkoinfo official app 
   Bonjour, je vous présente mon projet qui existe depuis maintenant bientôt 2 ans dans ma tête mais aujourd'hui je vous le partage.
   
@@ -6,7 +6,7 @@
   
   Pour installer Ukkoinfo, vous devriez extraire le zip, puis aller dans le dossier Ukkoinfo et cliquez sur "install.py". Cela vous installera toutes les libs Python utilisées, puis vous installera un raccourcis sur votre bureau. biensûr il vous faut la vertion de python 3.13.5.
 
-#ANG
+  #ANG
   # Ukkoinfo official app
 Hello, I'm introducing my project, which has been in my head for almost two years now, but today I'm sharing it with you.
 
