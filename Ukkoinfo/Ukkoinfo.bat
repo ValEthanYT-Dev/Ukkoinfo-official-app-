@@ -1,0 +1,2 @@
+python Ukkoinfo.py
+exit()
